@@ -22,4 +22,12 @@ public class MyClassImpl {
         return a + b;
     }
 
+    public int mul(int a, int b) {
+
+        this.a = a;
+        this.b = b;
+
+        return a * b;
+    }
+
 }
