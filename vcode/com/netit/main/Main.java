@@ -12,6 +12,14 @@ public class Main {
 
         System.out.println("res = " + res);
 
+        res = myClassImpl.getB();
+
+        System.out.println("res = " + res);
+
+        res = myClassImpl.getC();
+
+        System.out.println("res = " + res);
+
     }
 
 }
