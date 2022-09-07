@@ -1,6 +1,6 @@
 package com.netit;
 
-import com.chocho.MyResorces;
+import com.netit.resorces.MyResorces;
 
 public class Main {
     public static void main(String[] abs) {

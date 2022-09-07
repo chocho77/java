@@ -1,4 +1,4 @@
-package com.chocho;
+package com.netit.resorces;
 
 public class MyResorces {
 
