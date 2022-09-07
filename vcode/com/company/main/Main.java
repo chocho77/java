@@ -7,6 +7,8 @@ public class Main {
         MyClassImpl myClassImpl = new MyClassImpl();
         int res = myClassImpl.sub(2, 3);
         System.out.println("res = " + res);
+        res = myClassImpl.mul(2, 3);
+        System.out.println("res = " + res);
         System.out.println("Test message.");
         System.out.println("Test message.");
     }
