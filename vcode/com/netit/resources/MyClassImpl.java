@@ -36,4 +36,14 @@ public class MyClassImpl {
         this.c = c;
     }
 
+    public double volume() {
+
+        double a = this.a;
+        double b = this.b;
+        double c = this.c;
+        double res = a * b * c;
+
+        return res;
+    }
+
 }
