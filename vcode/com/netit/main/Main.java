@@ -20,6 +20,10 @@ public class Main {
 
         System.out.println("res = " + res);
 
+        double vol = myClassImpl.volume();
+
+        System.out.println("vol = " + vol);
+
     }
 
 }
