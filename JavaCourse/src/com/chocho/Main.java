@@ -10,7 +10,7 @@ public class Main {
         list.add(5);
         list.add(9);
         list.forEach(integer -> list.get(0));
-        
+
         System.out.println("Hooray my first java app");
     }
 }
